@@ -12,7 +12,7 @@ Vide tutoriais do PI.
 
 # Control Spese
 
-## Skittles
+## Grupo √81
 
 ## Integrantes: <a href="https://www.linkedin.com/in/bianca-morais-655464212">Bianca Ferreira Morais </a>, <a href="https://www.linkedin.com/in/pedro-cheles-lopes-42b783224/)"> Pedro Cheles Lopes </a>, <a href=" ">Rodrigo José Lima do Monte 
 

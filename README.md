@@ -12,26 +12,21 @@ Vide tutoriais do PI.
 
 # Control Spese
 
-## Nome do Grupo
+## Grupo √81
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
+## Integrantes: <a href="https://www.linkedin.com/in/bianca-morais-655464212">Bianca Ferreira Morais </a>, <a href="https://www.linkedin.com/in/pedro-cheles-lopes-42b783224/)"> Pedro Cheles Lopes </a>, <a href="https://github.com/RodrigoWasTaken">Rodrigo José Lima do Monte 
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
-
+## Professores Orientadores: <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti </a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Quiroz</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10//">Eduardo Savino Gomes
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
+<img src="https://i.imgur.com/4jnEHYk.jpeg" alt="NOME DO JOGO" border="0">
+  
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+O objetivo deste projeto é desenvolver um dashboard intuitivo e informativo que permita aos usuários monitorar e otimizar o consumo de energia em suas casas inteligentes, com ênfase na utilização de painéis solares. O dashboard fornecerá uma visão geral do consumo de energia da residência, a geração de energia solar e o impacto financeiro da utilização de energia renovável, além de oferecer uma interface interativa que junta um sistema de conquistas e recompensas que incentivam ainda mais a economia de energia dentro da casa.
+
 
 ## 🛠 Estrutura de pastas
 
@@ -104,7 +99,7 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
+<a href="https://github.com/2025-1-NADS1/A-Projeto9/tree/main">Projeto Control Spese</a> © 2025 by <a href="https://creativecommons.org">Bianca Ferreira Morais, Pedro Cheles Lopes, Rodrigo José Lima do Monte</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">.
 
 ## 🎓 Referências
 

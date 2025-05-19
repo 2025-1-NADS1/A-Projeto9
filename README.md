@@ -20,7 +20,7 @@ Vide tutoriais do PI.
 ## Descrição
 
 <p align="center">
-<img src="https://web.whatsapp.com/66fad3d9-9058-4e12-bd7c-073ec12f688f" alt="NOME DO JOGO" border="0">
+<img src="[https://web.whatsapp.com/66fad3d9-9058-4e12-bd7c-073ec12f688f](https://i.imgur.com/4jnEHYk.jpeg)" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 

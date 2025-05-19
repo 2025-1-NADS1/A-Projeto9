@@ -26,11 +26,7 @@ Vide tutoriais do PI.
 
 
 O objetivo deste projeto é desenvolver um dashboard intuitivo e informativo que permita aos usuários monitorar e otimizar o consumo de energia em suas casas inteligentes, com ênfase na utilização de painéis solares. O dashboard fornecerá uma visão geral do consumo de energia da residência, a geração de energia solar e o impacto financeiro da utilização de energia renovável, além de oferecer uma interface interativa que junta um sistema de conquistas e recompensas que incentivam ainda mais a economia de energia dentro da casa.
-<br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
-<br><br>
-May the force be with you!
-<br><br>
+
 
 ## 🛠 Estrutura de pastas
 
